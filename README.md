@@ -6,6 +6,8 @@ I design, secure, automate, test, and operate infrastructure platforms across Li
 
 My public work focuses on converting operationally complex systems into deployable, observable, supportable, and security-conscious platforms. Current projects apply production engineering practices to self-hosted distributed services, including automated deployment, administrative interfaces, readiness validation, monitoring, incident prevention, release governance, and secure software-delivery controls.
 
+[![Support my open-source work on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/darkdante)
+
 ## Core Competencies
 
 | Discipline | Focus |
